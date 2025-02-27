@@ -7,7 +7,7 @@ Version control is a system that tracks changes made to files or code over time,
 
 2. What is the process of setting up a new repository on GitHub, and what are the key decisions to be made?
 Answer:
-To set up a new repository on GitHub:
+To set up a new repository on GitHub
 
 Sign in to GitHub and click the "New" button.
 Name your repository and optionally add a description.
